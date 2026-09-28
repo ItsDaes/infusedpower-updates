@@ -1,4 +1,8 @@
 {
-  "latest": "0.9.81",
-  "message": "§fNew version out! §dDiscovery §fupdate: §bglyph hints§f, §aeffect icons §fand polish"
+  "latest": "0.9.90",
+  "message": "§fNew version out! §dThe Numen Update§f, our biggest update yet: §bNumen§f, §arituals§f, the new §eGuidebook §fand so much more",
+  "sources": {
+    "curseforge": "https://www.curseforge.com/minecraft/mc-mods/infused-power",
+    "modrinth": "https://modrinth.com/mod/infused-power/versions"
+  }
 }
