@@ -1,6 +1,9 @@
 {
   "latest": "0.9.93",
-  "message": "§fNew version out! §6Polish and Fixes§f: faster loading and many fixes!",
+  "branches": {
+    "fabric-1.21.1": "0.9.95"
+  },
+  "message": "§fNew alpha out! §cThe Chaos God Update§f: the first boss fight, and many changes. Back up your worlds, and do not use The Chaos God's Summons in a normal world!",
   "sources": {
     "curseforge": "https://www.curseforge.com/minecraft/mc-mods/infused-power",
     "modrinth": "https://modrinth.com/mod/infused-power/versions"
