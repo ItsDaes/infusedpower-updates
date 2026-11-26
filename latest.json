@@ -1,16 +1,16 @@
 {
   "latest": "0.9.93",
   "branches": {
-    "fabric-1.21.1": "0.9.95-beta",
-    "neoforge-1.21.1": "0.9.95-beta",
-    "forge-1.20.1": "0.9.95-beta",
-    "fabric-26.2": "0.9.95-beta",
-    "neoforge-26.2": "0.9.95-beta",
-    "fabric-26.3": "0.9.95-beta",
-    "neoforge-26.3": "0.9.95-beta",
-    "neoforge-26.1.2": "0.9.95-beta"
+    "fabric-1.21.1": "0.9.95-c",
+    "neoforge-1.21.1": "0.9.95-c",
+    "forge-1.20.1": "0.9.95-c",
+    "fabric-26.2": "0.9.95-c",
+    "neoforge-26.2": "0.9.95-c",
+    "fabric-26.3": "0.9.95-c",
+    "neoforge-26.3": "0.9.95-c",
+    "neoforge-26.1.2": "0.9.95-c"
   },
-  "message": "§fNew beta out! §cThe Chaos God Update§f: the first boss fight, and many changes. Back up your worlds, and do not use The Chaos God's Summons in a normal world!",
+  "message": "§fNew beta out! §cThe Chaos God Update§f: the first boss fight, and many fixes. Back up your worlds, and do not use The Chaos God's Summons in a normal world!",
   "sources": {
     "curseforge": "https://www.curseforge.com/minecraft/mc-mods/infused-power",
     "modrinth": "https://modrinth.com/mod/infused-power/versions"
